@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SousChef</string>
+    <string name="app_album">ALBUM</string>
+
+    <string name="bt_dataBase">ALBUM</string>
+    <string name="bt_camera">CAMERA</string>
+    <string name="bt_upLoad">UP LOAD IMAGES</string>
+    <string name="bt_backHome">Back to HOME</string>
+
 </resources>
