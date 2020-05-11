@@ -1,4 +1,4 @@
-package com.websarva.wings.android.souschef
+package com.websarva.wings.android.souchef
 
 import org.junit.Test
 

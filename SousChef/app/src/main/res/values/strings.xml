@@ -1,10 +1,21 @@
 <resources>
-    <string name="app_name">SousChef</string>
-    <string name="app_album">ALBUM</string>
+    <string name="app_name">SouChef</string>
+    <string name="app_album">Album</string>
 
-    <string name="bt_dataBase">ALBUM</string>
-    <string name="bt_camera">CAMERA</string>
-    <string name="bt_upLoad">UP LOAD IMAGES</string>
-    <string name="bt_backHome">Back to HOME</string>
+    <string name="bt_goAlbum">Album</string>
+    <string name="bt_goCamera">Camera</string>
+    <string name="bt_Home">Home</string>
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
+<!--    <string name="bt_"></string>-->
 
 </resources>

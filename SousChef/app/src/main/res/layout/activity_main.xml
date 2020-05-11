@@ -4,33 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
+    tools:context=".home.MainActivity">
 
     <Button
-        android:id="@+id/bt_database"
-        android:layout_width="300dp"
+        android:id="@+id/bt_goAlbum"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/bt_dataBase"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/bt_goAlbum"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/bt_camera"
-        android:layout_width="300dp"
+        android:id="@+id/bt_Camera"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/bt_camera"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:text="@string/bt_goCamera"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bt_database" />
-
-    <Button
-        android:id="@+id/bt_upLoad"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:text="@string/bt_upLoad"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bt_camera" />
+        app:layout_constraintTop_toBottomOf="@+id/bt_goAlbum" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -7,10 +7,10 @@
     tools:context=".album.Album">
 
     <Button
-        android:id="@+id/bt_backHome"
+        android:id="@+id/bt_homeAlbum"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/bt_backHome"
+        android:text="@string/bt_Home"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
